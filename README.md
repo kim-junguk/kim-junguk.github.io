@@ -1,4 +1,4 @@
 # 배달더치(BaedalDutch)
-## Deployment URL: 
+## Deployment URL
 https://baedaldutch.tk/
 ## Summary
